@@ -1,0 +1,39 @@
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 30px;
+}
+.pull-center{
+    text-align: center;
+    font-weight: bold;
+}
+.holder{
+    background-color: white;
+}
+.frame{
+    height: 240px;
+    width: 94%;
+}
+.card-holder{
+    height: 200px;
+    width: 170px;
+    margin-left: 30px;
+    padding: 4px;
+    float: left;
+   border-radius: 15px;
+}
+
+.buton{
+    padding-right: 70px;
+}
+
+.face-image img{
+    height: 190px;
+    width: 161px;
+    transition: all 3.5s;
+}
+
+
+
